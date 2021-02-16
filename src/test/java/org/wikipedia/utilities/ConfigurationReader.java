@@ -1,4 +1,4 @@
-package com.wikipedia.utilities;
+package org.wikipedia.utilities;
 
 import java.io.FileInputStream;
 import java.io.IOException;

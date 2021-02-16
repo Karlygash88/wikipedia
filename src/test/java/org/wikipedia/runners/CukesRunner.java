@@ -1,4 +1,4 @@
-package com.wikipedia.runners;
+package org.wikipedia.runners;
 
 
 import io.cucumber.junit.Cucumber;

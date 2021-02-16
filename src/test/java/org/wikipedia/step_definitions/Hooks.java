@@ -1,7 +1,7 @@
-package com.wikipedia.step_definitions;
+package org.wikipedia.step_definitions;
 
-import com.wikipedia.utilities.ConfigurationReader;
-import com.wikipedia.utilities.Driver;
+import org.wikipedia.utilities.ConfigurationReader;
+import org.wikipedia.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 

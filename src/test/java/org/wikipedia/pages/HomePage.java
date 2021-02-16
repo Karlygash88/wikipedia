@@ -1,6 +1,6 @@
-package com.wikipedia.pages;
+package org.wikipedia.pages;
 
-import com.wikipedia.utilities.Driver;
+import org.wikipedia.utilities.Driver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;

@@ -1,9 +1,9 @@
-package com.wikipedia.step_definitions;
+package org.wikipedia.step_definitions;
 
-import com.wikipedia.pages.HomePage;
-import com.wikipedia.pages.SearchPage;
-import com.wikipedia.utilities.ConfigurationReader;
-import com.wikipedia.utilities.Driver;
+import org.wikipedia.pages.HomePage;
+import org.wikipedia.pages.SearchPage;
+import org.wikipedia.utilities.ConfigurationReader;
+import org.wikipedia.utilities.Driver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

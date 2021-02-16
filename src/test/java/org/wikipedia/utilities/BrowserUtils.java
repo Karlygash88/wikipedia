@@ -1,4 +1,4 @@
-package com.wikipedia.utilities;
+package org.wikipedia.utilities;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
