@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         plugin = "html:target/cucumber-report.html",
         features = "src/test/resources/features",
-        glue = "com/wikipedia/step_definitions",
+        glue = "org/wikipedia/step_definitions",
         tags = "@wip"
 
 
